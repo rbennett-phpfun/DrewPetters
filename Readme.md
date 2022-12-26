@@ -1,12 +1,15 @@
 
 
-<h1 align="center">Welcome to Ryan Bennett's profile.</h1>
+<h3 align="center">
+  Welcome to Gabriel Flores's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-I'm a product-first developer who uses the best languages, frameworks, and libraries for a given project rather than trying to fit all projects into one stack that I know well.
+#### **I'm a product-first developer who uses the best languages, frameworks, and libraries for a given project rather than trying to fit all projects into one stack that I know well.
 
 I have been programming computers almost daily since I was 10. I was taught programming, marketing, and advertising techniques at a young age while helping out at my family business. I recognized what they did right and what they did wrong, not just from an IT standpoint, but from a business and marketing standpoint.
 
-I love technology and finding ways to leverage technology to solve business problems. I believe just because you can do something with a computer doesn't mean it's the best way. Not every great idea is a great business idea. Being able to monetize an idea is vital.
+I love technology and finding ways to leverage technology to solve business problems. I believe just because you can do something with a computer doesn't mean it's the best way. Not every great idea is a great business idea. Being able to monetize an idea is vital.**
 
 ## My favorite tools
 
